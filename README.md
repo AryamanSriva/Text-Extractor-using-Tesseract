@@ -13,10 +13,3 @@ Tesseract is an open-source OCR (Optical Character Recognition) engine that supp
 - Extract text from various image formats (JPG, PNG, etc.)
 - Configurable preprocessing options for better accuracy
 
-
-## Contributing
-
-We welcome contributions to this project! If you find a bug or have a feature request, please open an issue. If you would like to contribute code, fork the repository and submit a pull request.
-
-
-Thank you for using this project! If you have any questions, feel free to open an issue or reach out to the me. Happy text extracting!
