@@ -1,7 +1,6 @@
 # Extracting Text from PDFs and Images Using Tesseract
 
-This repository demonstrates how to extract text from PDFs and images using Tesseract! This project shows how to use the Tesseract OCR engine to convert images and PDF documents into machine-readable text. 
-
+This repository demonstrates how to extract text from PDFs and images using Tesseract. This project shows how to use the Tesseract OCR engine to convert images and PDF documents into machine-readable text. 
 
 ## Introduction
 
