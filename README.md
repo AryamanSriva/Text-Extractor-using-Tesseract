@@ -9,5 +9,5 @@ Tesseract is an open-source OCR (Optical Character Recognition) engine that supp
 ## Features
 
 - Extract text from PDF files
-- Extract text from various image formats (JPG, PNG, etc.)
+- Extract text from various image formats (JPG, PNG, etc)
 - Configurable preprocessing options for better accuracy
